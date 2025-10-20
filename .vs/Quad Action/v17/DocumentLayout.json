@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Projects\\Quad Action\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:34:42.845Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwDMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T13:08:29.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Follow.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Follow.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Follow.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Follow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:44:40.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T13:44:40.912Z"
             }
           ]
         }
