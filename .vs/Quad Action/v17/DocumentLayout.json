@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Projects\\Quad Action\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\2scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\2scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\orbit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Item.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
-              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Item.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\Weapon.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\Weapon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T10:34:42.845Z",
+              "WhenOpened": "2025-10-22T08:55:25.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwDMAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Orbit.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Orbit.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\Orbit.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Orbit.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\Orbit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:08:29.03Z",
+              "WhenOpened": "2025-10-22T06:30:13.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\Player.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\Player.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAOkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:53:46.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Follow.cs",
-              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Follow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Follow.cs",
-              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\Scripts\\Follow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Follow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\Item.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:44:40.912Z"
+              "WhenOpened": "2025-10-20T13:53:45.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Follow.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\Follow.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Follow.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\Follow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:53:45.154Z"
             }
           ]
         }

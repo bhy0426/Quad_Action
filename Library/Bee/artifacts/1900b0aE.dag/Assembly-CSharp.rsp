@@ -357,10 +357,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/2Scripts/Follow.cs"
+"Assets/2Scripts/Item.cs"
+"Assets/2Scripts/Orbit.cs"
+"Assets/2Scripts/Player.cs"
+"Assets/2Scripts/Weapon.cs"
 "Assets/QuarterView 3D Action BE5/ReadMe/Scripts/ReadmeBE5.cs"
-"Assets/Scripts/Follow.cs"
-"Assets/Scripts/Item.cs"
-"Assets/Scripts/Player.cs"
 -langversion:9.0
 /deterministic
 /optimize+
