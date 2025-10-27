@@ -349,18 +349,26 @@ public class Player : MonoBehaviour
             {
                 Bullet enemyBullet = other.GetComponent<Bullet>();
                 health -= enemyBullet.damage;
-                StartCoroutine(OnDamage());
+
+                bool isBossAtk = other.name == "Boss Melee Area"; // 맞았을 때 오브젝트의 이름이 Boss Melee Area이면
+                StartCoroutine(OnDamage(isBossAtk));
             }
+
+            if (other.GetComponent<Rigidbody>() != null) // 플레이어의 무적과 관계없이 투사체는 Destroy()
+                Destroy(other.gameObject);
         }
     }
 
-    IEnumerator OnDamage()
+    IEnumerator OnDamage(bool isBossAtk)
     {
         isDamage = true;
         foreach(MeshRenderer mesh in meshs)
         {
             mesh.material.color = Color.yellow;
         }
+
+        if (isBossAtk)
+            rigid.AddForce(transform.forward * -25f, ForceMode.Impulse); // 만약 보스 점프 공격이면 뒤로 넉백
 
         yield return new WaitForSeconds(1f);
 
@@ -369,6 +377,9 @@ public class Player : MonoBehaviour
         {
             mesh.material.color = Color.white;
         }
+
+        if (isBossAtk)
+            rigid.velocity = Vector3.zero;
     }
 
     void OnTriggerStay(Collider other)

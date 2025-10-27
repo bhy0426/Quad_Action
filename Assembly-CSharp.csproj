@@ -64,7 +64,10 @@
     <Compile Include="Assets\2Scripts\Enemy.cs" />
     <Compile Include="Assets\2Scripts\Missile.cs" />
     <Compile Include="Assets\2Scripts\Bullet.cs" />
+    <Compile Include="Assets\2Scripts\Boss.cs" />
     <Compile Include="Assets\2Scripts\Item.cs" />
+    <Compile Include="Assets\2Scripts\BossRock.cs" />
+    <Compile Include="Assets\2Scripts\BossMissile.cs" />
     <Compile Include="Assets\2Scripts\Orbit.cs" />
     <Compile Include="Assets\QuarterView 3D Action BE5\ReadMe\Scripts\ReadmeBE5.cs" />
     <Compile Include="Assets\2Scripts\Player.cs" />
