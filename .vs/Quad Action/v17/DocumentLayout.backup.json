@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Projects\\Quad Action\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\2scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\2scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\2scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|c:\\projects\\quad action\\assets\\2scripts\\startzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\startzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\bossrock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\bossmissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\bossmissile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|solutionrelative:assets\\2scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50F8647E-DCDB-A566-0DD9-FAC55E12DB75}|Assembly-CSharp.csproj|C:\\Projects\\Quad Action\\assets\\2scripts\\missile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,24 +70,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Boss.cs",
-              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Boss.cs",
-              "RelativeDocumentMoniker": "Assets\\2Scripts\\Boss.cs",
-              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Boss.cs*",
-              "RelativeToolTip": "Assets\\2Scripts\\Boss.cs*",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEoAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StartZone.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\StartZone.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\StartZone.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\StartZone.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\StartZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T10:14:02.078Z",
+              "WhenOpened": "2025-10-29T14:28:17.429Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\GameManager.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAGcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:13:15.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Shop.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\Shop.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Shop.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\Shop.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:03:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\2Scripts\\Boss.cs",
+              "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Boss.cs",
+              "RelativeToolTip": "Assets\\2Scripts\\Boss.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:14:02.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BossRock.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\BossRock.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\BossRock.cs",
@@ -87,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "BossMissile.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\BossMissile.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\BossMissile.cs",
@@ -99,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Missile.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Missile.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Missile.cs",
@@ -111,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Grenade.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Grenade.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Grenade.cs",
@@ -123,20 +172,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Enemy.cs",
               "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Enemy.cs",
               "RelativeToolTip": "Assets\\2Scripts\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAANsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T13:38:55.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Bullet.cs",
@@ -148,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Weapon.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Weapon.cs",
@@ -160,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Orbit.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Orbit.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Orbit.cs",
@@ -172,19 +221,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Player.cs",
               "ToolTip": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\2Scripts\\Player.cs",
-              "ViewState": "AgIAAFsBAAAAAAAAAEBVwF8BAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAADgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T13:53:46.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Item.cs",
@@ -196,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Follow.cs",
               "DocumentMoniker": "C:\\Projects\\Quad Action\\Assets\\2Scripts\\Follow.cs",
               "RelativeDocumentMoniker": "Assets\\2Scripts\\Follow.cs",
